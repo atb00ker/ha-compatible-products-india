@@ -15,8 +15,9 @@
 
 ## Products tested to be working
 
-- Amazon Branded
-- https://www.amazon.in/Amazon-Basics-Assistant-Enabled-Multicolour/dp/B0BBMRZW5N/****
+| Brand          | Product    | Link                                                                                   |
+|----------------|------------|----------------------------------------------------------------------------------------|
+| Amazon Branded | Smart Bulb | https://www.amazon.in/Amazon-Basics-Assistant-Enabled-Multicolour/dp/B0BBMRZW5N/       |
 
 
 ## Did you reach here by Googling for this information? 
