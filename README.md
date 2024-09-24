@@ -5,6 +5,7 @@
 | Brand          | Product Range       | Rating | Notes                                         |
 | -------------- | ------------------- | ------ | --------------------------------------------- |
 | Amazon branded | Tuya / "Smart life" | Good   | Works with HA/[LocalTuya] integration         |
+| Wipro          | Tuya / "Smart life" | Good   | Works with HA/[LocalTuya] integration         |
 | Sonoff         | Various             | Good   | Works locally with HA/[SonoffLAN] integration |
 | Philips        | Wiz                 | Good   | Works locally with HA                         |
 | Philips        | Hue                 | Poor   | Requires internet connection                  |
